@@ -1,4 +1,4 @@
-//your JS code here. If required.
+//your JS code here. If requir
 document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("demo").innerHTML = "DOM load success";
+    document.getElementById("demo").innerText = "DOM load success";
 });
